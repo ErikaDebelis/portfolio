@@ -18,6 +18,11 @@ h5.intro {
   box-sizing: border-box;
 }
 
+.intense {
+  font-style: italic;
+  font-weight: lighter;
+}
+
 .emphasize {
   color:darkmagenta;
   font-style: italic;
