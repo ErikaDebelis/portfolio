@@ -1,9 +1,21 @@
 .centered-text {
   text-align: center;
   font-family: "Helvetica Neue";
+  font-weight: bold;
+  color: rgb(54, 26, 100);
+}
+body {
+  background-color: rgb(158, 144, 196);
+}
+h3.centered-text {
+  text-align: center;
+  font-family: "Helvetica Neue";
+  font-weight: bold;
+  color: blanchedalmond;
 }
 h5.intro {
   font-style: italic;
+  font-weight: bold;
   color: indigo;
 }
 .centered-image {
@@ -14,7 +26,7 @@ h5.intro {
 }
 
 .box {
-  border: 5px solid rgb(196, 155, 206);
+  border: 9px solid rgb(196, 155, 206);
   padding: 15px;
   background-color: rgb(255, 249, 160);
   width: 100%;
@@ -23,7 +35,6 @@ h5.intro {
 
 .intense {
   font-style: italic;
-  font-weight: lighter;
 }
 
 .emphasize {
@@ -32,7 +43,7 @@ h5.intro {
 }
 
 .box2 {
-  border: 5px solid rgb(255, 204, 109);
+  border: 9px solid rgb(255, 204, 109);
   padding: 15px;
   background-color: rgb(194, 193, 253);
   width: 100%;
