@@ -14,7 +14,6 @@ _Demonstration/practice site utilizing HTML, CSS, and Markdown._
 * _CSS_
 * _Markdown_
 * _GitBash_
-* _GitHub_
 
 ## Setup/Installation Instructions:
 

@@ -10,32 +10,38 @@
   width: fit-content;
   height: auto;
 }
+
 .centered-text {
   text-align: center;
   font-family: "Helvetica Neue";
   font-weight: bold;
   color: rgb(54, 26, 100);
-  padding: 22px;
+  padding: 6.5px;
 }
+
 body {
   background-color: rgb(158, 144, 196);
 }
+
 h3.centered-text {
   text-align: center;
   font-family: "Helvetica Neue";
   font-weight: bold;
   color: blanchedalmond;
 }
+
 h6.intro {
   font-style: italic;
   font-weight: bold;
   color: rgb(34, 8, 182);
 }
+
 h4.intro {
   font-style: italic;
   font-weight: bold;
   color: indigo;
 }
+
 .centered-image {
   margin: auto;
   width: fit-content;
@@ -71,3 +77,10 @@ h4.intro {
   box-sizing: border-box;
 }
 
+.box3 {
+  border: 9px solid rgb(128, 194, 211);
+  padding: 15px;
+  background-color: rgb(241, 193, 253);
+  width: 100%;
+  box-sizing: border-box;
+}
