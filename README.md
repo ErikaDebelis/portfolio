@@ -20,9 +20,9 @@ _Demonstration/practice site utilizing HTML, CSS, and Markdown._
 
 _https://erikadebelis.github.io/portfolio/_
 
-*_Clone this repository to your desktop_
-*_Navigate to the top of the directory_
-*_Open portfolio/index.html in your web browser_
+* _Clone this repository to your desktop_
+* _Navigate to the top of the directory_
+* _Open portfolio/index.html in your web browser_
 
 
 ## Bugs
