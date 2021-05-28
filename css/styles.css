@@ -1,8 +1,21 @@
+
+.sidebar {
+  float:left;
+  width:fit-content;
+  height: auto;
+}
+
+.sidebar-flipped {
+  float:right;
+  width: fit-content;
+  height: auto;
+}
 .centered-text {
   text-align: center;
   font-family: "Helvetica Neue";
   font-weight: bold;
   color: rgb(54, 26, 100);
+  padding: 22px;
 }
 body {
   background-color: rgb(158, 144, 196);
@@ -23,6 +36,7 @@ h5.intro {
   width: fit-content;
   height: auto;
   display: block;
+  border: 30px
 }
 
 .box {
@@ -35,6 +49,9 @@ h5.intro {
 
 .intense {
   font-style: italic;
+  font-weight: lighter;
+  font-family: sans-serif;
+  font-size: smaller;
 }
 
 .emphasize {
