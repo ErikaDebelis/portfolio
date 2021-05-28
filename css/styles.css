@@ -26,7 +26,12 @@ h3.centered-text {
   font-weight: bold;
   color: blanchedalmond;
 }
-h5.intro {
+h6.intro {
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(34, 8, 182);
+}
+h4.intro {
   font-style: italic;
   font-weight: bold;
   color: indigo;
