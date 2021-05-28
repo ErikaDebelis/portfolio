@@ -1,6 +1,8 @@
-# _Erika's Portfolio_#
+# _Erika's Portfolio_
 
 #### _A website about me and my projects so far at Epicodus!_
+
+#### _By Erika Debelis_
 
 ## Technologies Used:
 
@@ -20,6 +22,6 @@ _This website is my first solo project for my software development/coding progra
 
 _if any issues are discovered while navigating my site please let me know! It will help me learn and grow!_
 
-# Contact Information
+## Contact Information
 
 _erika.debelis@gmail.com_

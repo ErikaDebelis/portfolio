@@ -1,6 +1,9 @@
+.centered-text {
+  text-align: center;
+  font-family: "Helvetica Neue";
+}
 h5.intro {
   font-style: italic;
-  font-family: "Helvetica Neue";
   color: indigo;
 }
 .centered-image {
