@@ -4,6 +4,10 @@
 
 #### _By Erika Debelis_
 
+## Description
+
+_Demonstration/practice site utilizing HTML, CSS, and Markdown._
+
 ## Technologies Used:
 
 * _HTML_
@@ -12,16 +16,23 @@
 * _GitBash_
 * _GitHub_
 
-## Description
+## Setup/Installation Instructions:
+*_Clone this repository to your desktop_
+*_Navigate to the top of the directory_
+*_Open portfolio/index.html in your web browser_
 
-_This website is my first solo project for my software development/coding program at Epicodus. It is a site that provides links to a few of the projects we've worked on throughout this first week and also a little more background info on who I am and how I got to this point in my life._
+## Bugs
 
-## No known bugs at this time
+_No known bugs at this time_
 
 ## License
+
+_GPL_
+
+_Copyright (c) 2021 Erika Debelis
 
 _if any issues are discovered while navigating my site please let me know! It will help me learn and grow!_
 
 ## Contact Information
 
-_erika.debelis@gmail.com_
+Erika Debelis erika.debelis@gmail.com_
